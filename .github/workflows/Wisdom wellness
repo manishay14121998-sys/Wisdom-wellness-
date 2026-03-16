@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Wisdom Wellness</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+
+body{
+font-family:Arial;
+margin:0;
+background:#f5f7f3;
+}
+
+header{
+background:#2f6b4f;
+color:white;
+text-align:center;
+padding:80px 20px;
+}
+
+section{
+padding:40px;
+text-align:center;
+}
+
+.button{
+background:#f4c430;
+padding:12px 25px;
+text-decoration:none;
+border-radius:6px;
+color:black;
+font-weight:bold;
+}
+
+.services{
+display:flex;
+flex-wrap:wrap;
+justify-content:center;
+gap:20px;
+}
+
+.card{
+background:white;
+padding:20px;
+width:220px;
+border-radius:10px;
+box-shadow:0 3px 10px rgba(0,0,0,0.1);
+}
+
+footer{
+background:#2f6b4f;
+color:white;
+text-align:center;
+padding:20px;
+}
+
+</style>
+</head>
+
+<body>
+
+<header>
+
+<h1>Wisdom Wellness</h1>
+
+<p>Ancient Wisdom for Modern Wellness</p>
+
+<p>Ayurvedic guidance for women and families</p>
+
+<br>
+
+<a class="button" href="https://wa.me/917057050029">
+Book Consultation
+</a>
+
+</header>
+
+<section>
+
+<h2>About</h2>
+
+<p>
+Wisdom Wellness provides Ayurvedic lifestyle guidance,
+nutrition advice and wellness consultation.
+</p>
+
+</section>
+
+<section>
+
+<h2>Services</h2>
+
+<div class="services">
+
+<div class="card">
+<h3>Prakriti Analysis</h3>
+</div>
+
+<div class="card">
+<h3>Personalized Diet Chart</h3>
+</div>
+
+<div class="card">
+<h3>Postpartum Care</h3>
+</div>
+
+<div class="card">
+<h3>Kids Nutrition</h3>
+</div>
+
+</div>
+
+</section>
+
+<section>
+
+<h2>Contact</h2>
+
+<p>Email: wisdomwellness05@gmail.com</p>
+
+<p>Location: Gurugram</p>
+
+</section>
+
+<footer>
+
+© Wisdom Wellness
+
+</footer>
+
+</body>
+</html>
